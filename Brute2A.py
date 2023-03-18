@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 
 portalurl = ''
 username = ""
-password = "montoya"
+password = ""
 
 isVerify=True
 
